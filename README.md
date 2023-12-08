@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./headerr.png)
 
 <h1 align="center">Hi 👋, I'm Jayesh Murodiya</h1>
 <h3 align="center">Enthusiastic and Autodidact Engineer in Computer Science and Engineering. Inclined towards problem solving, with prerequisite knowledge of Data Structures and Algorithms. Invested my almost 2 years of Engineering to learn few coding languages, also solved 400+ Coding questions across various Competitive Coding Platforms. Looking forward to join an organization to begin my corporate journey with, where I'll receive ample opportunities to enhance my skillset. Post which, I will be able to add growth to the company as a member of the team.</h3>
