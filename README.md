@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh Murodiya</h1>
 <p align="center">Enthusiastic and Autodidact Engineer in Computer Science and Engineering. Inclined towards problem solving, with prerequisite knowledge of Data Structures and Algorithms. Invested my almost 2 years of Engineering to learn few coding languages, also solved 400+ Coding questions across various Competitive Coding Platforms. Looking forward to join an organization to begin my corporate journey with, where I'll receive ample opportunities to enhance my skillset. Post which, I will be able to add growth to the company as a member of the team.</p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshmurodiya&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshmurodiya" /> </p>
 
