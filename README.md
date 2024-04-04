@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshmurodiya&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshmurodiya" /> </p>
 
-- 🌱 I’m currently learning *C#, ASP.NET, MERN*
+- 🌱 I’m currently learning *TypeScript, Angular*
 
 - 📫 How to reach me *jrmurodiya@gmail.com*
 
